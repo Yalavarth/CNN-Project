@@ -1,1 +1,1 @@
-# CNN-Project
+Image Classification Project (CNN)
